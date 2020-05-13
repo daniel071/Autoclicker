@@ -1,5 +1,5 @@
 # auto-clicker
-#### Auro-clicker is an simple auto clicker written in Python using GTK.
+#### Auto-clicker is an simple auto clicker written in Python using GTK.
 
 ## Installation:
 
@@ -18,12 +18,10 @@ you're using Gnome 3, this will run native!
 
 <details>
 <summary>On Windows</summary>
-<br>
 TODO
 </details>
 
 <details>
 <summary>On MacOS</summary>
-<br>
-This is how you dropdown.
+TODO
 </details>
