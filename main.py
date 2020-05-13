@@ -23,6 +23,7 @@ class MyWindow(Gtk.Window):
 
 		# Defines a text Entry
 		entry1 = Gtk.Entry()
+		entry1.set_text("10")
 
 
 
@@ -43,9 +44,10 @@ class MyWindow(Gtk.Window):
 		global entry1
 
 		# When button is pressed
-		textToChange = entry1.get_text()
-		label1.set_label(textToChange)
-		print("Hello World")
+		clickingSpeed = entry1.get_text()
+
+		# TODO: Implement this!
+		print("")
 
 
 win = MyWindow()
