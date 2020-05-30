@@ -1,0 +1,2 @@
+PyGObject==3.36.1
+pynput==1.6.8

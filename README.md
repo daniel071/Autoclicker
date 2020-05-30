@@ -23,5 +23,12 @@ TODO
 
 <details>
 <summary>On MacOS</summary>
-TODO
+
+1. Install GTK. To install, download a binary from: [here](http://www.tarnyko.net/repo/gtk3_build_system/gtk+-bundle_3.6.4_20130630_macosx.tar.bz2)
+and extract it to `/Library/Frameworks`
+2. Clone this repo with: `git clone http://pavela.net:3000/Daniel/auto-clicker.git`
+3. Install dependencies with `pip install -r requirements.txt`
+4. Run the python file with `python main.py`
+
+
 </details>
