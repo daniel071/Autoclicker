@@ -56,6 +56,9 @@ class MyWindow(Gtk.Window):
 		global entry1
 		global entry2
 
+		print("---Clicking in 3 seconds!---")
+		time.sleep(3)
+
 		# When button is pressed
 		clickingTime = entry1.get_text()
 		clickingDelay = entry2.get_text()
